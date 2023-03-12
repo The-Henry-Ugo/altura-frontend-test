@@ -1,5 +1,6 @@
 .nft_grid_container {
   padding: 50px;
+  max-width: 1500px;
 }
 
 .nft_cards {
