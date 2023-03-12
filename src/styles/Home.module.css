@@ -316,7 +316,7 @@
 }
 
 @media screen and (max-width: 840px) {
-  .nft_full_details_container {
+  .nft_full_details_content {
     max-width: 600px;
     height: fit-content;
     gap: 70px;
@@ -334,13 +334,13 @@
 }
 
 @media screen and (max-width: 650px) {
-  .nft_full_details_container {
+  .nft_full_details_content {
     max-width: 500px;
   }
 }
 
 @media screen and (max-width: 550px) {
-  .nft_full_details_container {
+  .nft_full_details_content {
     max-width: 400px;
   }
 }
@@ -351,7 +351,7 @@
   }
 }
 @media screen and (max-width: 420px) {
-  .nft_full_details_container {
+  .nft_full_details_content {
     max-width: 300px;
   }
   .owner_address {
